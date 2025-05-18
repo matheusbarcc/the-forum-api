@@ -1,4 +1,4 @@
-# Forum API
+# The Forum API
 
 Welcome to the Forum API! This project serves as the backend for a forum platform where students can create and manage questions, and instructors can provide answers. The application follows the principles of Clean Architecture to ensure maintainability and scalability.
 
